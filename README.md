@@ -1,11 +1,9 @@
 # An Analysis of Kickstarter Campaigns
 The project contains an *excel* analyzing the findings on various years worth of data o fundraising campaigns.
 
-**Pivot tables** were used to better visualize data.
-<br>
-**VLOOKUP** was used to extract data from the main sheet to a secondary one
-<br>
-**Conditional formatting** was used to color code our data depending on its value
+* **Pivot tables** were used to better visualize data.
+* **VLOOKUP** was used to extract data from the main sheet to a secondary one
+* **Conditional formatting** was used to color code our data depending on its value
 
 ## Findings
 Failed campaigns, on average, asked for almost double the money than successful ones.
